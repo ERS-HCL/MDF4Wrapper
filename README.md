@@ -17,6 +17,7 @@ This Python code extracts the image present in the previously generated MDF4 fil
 This PySpark code processes multiple MDF4 files present in HDFS(Hadoop Distributed File System) and stores the result either on local disk or HDFS based on the user preference.
 
 References:
+
 https://www.asam.net/standards/detail/mdf/
 
 https://github.com/danielhrisca/asammdf
@@ -24,5 +25,6 @@ https://github.com/danielhrisca/asammdf
 https://asammdf.readthedocs.io/en/latest/api.html
 
 Disclaimer:
+
 This is not an official HCL ERS project.
 This is only a proof of concept.
