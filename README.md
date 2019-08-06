@@ -4,7 +4,7 @@ Parallel processing and images extraction from MDF4 files.
 Setup:
 No particular setup is required. Clone or download the repository and you can run with Python installed on any Linux System.
 
-Prerequisites:
+#Prerequisites:
 
 To run the Python files mdf_Image_Frame_Generator.py and extract_image_mdf4.py:
 
@@ -26,7 +26,7 @@ Required Python packages:
 asammdf
 pyspark 
 
-How to run? :
+#How to run? :
 
 1) To embed a given image into a new MDF4 file:
 
