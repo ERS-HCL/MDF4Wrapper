@@ -1,7 +1,7 @@
 # MDF4Wrapper
 Parallel processing and images extraction from MDF4 files.
 
-Setup:
+#Setup:
 No particular setup is required. Clone or download the repository and you can run with Python installed on any Linux System.
 
 #Prerequisites:
