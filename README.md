@@ -5,17 +5,24 @@ Setup:
 No particular setup is required. Clone or download the repository and you can run with Python installed on any Linux System.
 
 Prerequisites:
+
 To run the Python files mdf_Image_Frame_Generator.py and extract_image_mdf4.py:
+
 Python with version 3.6
+
 Required Python packages:
+
 asammdf
 PIL
 numpy
 
 To run mdf4_spark_example.py:
+
 Apache Spark 2.0
 Python with version 3.6
+
 Required Python packages:
+
 asammdf
 pyspark 
 
